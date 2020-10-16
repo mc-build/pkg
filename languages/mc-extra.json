@@ -1,5 +1,5 @@
 {
-  "name":"lang-mc-extra",
+  "name":"lang-mc-extra/stable",
   "remote":{
     "type":"github",
     "owner":"mc-build"

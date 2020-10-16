@@ -1,0 +1,7 @@
+{
+  "name":"lang-mc-extra",
+  "remote":{
+    "type":"github",
+    "owner":"mc-build"
+  }
+}

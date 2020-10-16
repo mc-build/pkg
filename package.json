@@ -1,0 +1,23 @@
+{
+  "name": "mcb-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mc-build/pkg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mc-build/pkg/issues"
+  },
+  "homepage": "https://github.com/mc-build/pkg#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

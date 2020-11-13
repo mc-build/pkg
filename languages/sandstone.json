@@ -1,0 +1,7 @@
+{
+    "name": "lang-sandstone/stable",
+    "remote": {
+        "type": "github",
+        "owner": "mc-build"
+    }
+}

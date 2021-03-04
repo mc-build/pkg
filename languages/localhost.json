@@ -1,0 +1,7 @@
+{
+    "name":"localhost/master",
+    "remote":{
+      "type":"github",
+      "owner":"Ancientkingg"
+    }
+  }

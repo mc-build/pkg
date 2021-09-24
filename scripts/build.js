@@ -35,3 +35,4 @@ fs.writeFileSync(
   path.resolve("out", "catalog"),
   JSON.stringify({ libs: Object.keys(libs), langs: Object.keys(langs) })
 );
+fs.copyFileSync("./upgradelist.json","./out/upgradelist.json");
